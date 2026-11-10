@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# seihyo: PyInstaller spec is tracked
+!packaging/seihyo.spec
